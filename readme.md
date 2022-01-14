@@ -601,8 +601,12 @@ El atributo **aria-live** añade a un elemento para indicar que es una “regió
 
 Sin considerar la Accesibilidad.
 
-![inicio](https://raw.githubusercontent.com/BraianVayletGlobant/curso-accesibilidad-web-platzi/main/images/accessibility-index.jpg)
+![inicio](https://raw.githubusercontent.com/BraianVaylet/curso-accesibilidad-web-platzi/main/images/accessibility-index.jpg)
+
+URL para probar el sitio [AQUI](https://braianvaylet.github.io/curso-accesibilidad-web-platzi)
 
 Haciendo foco en la mejora de la Accesibilidad.
 
-![final](https://raw.githubusercontent.com/BraianVayletGlobant/curso-accesibilidad-web-platzi/main/images/accessibility-final.jpg)
+![final](https://raw.githubusercontent.com/BraianVaylet/curso-accesibilidad-web-platzi/main/images/accessibility-final.jpg)
+
+URL para probar el sitio [AQUI](https://braianvaylet.github.io/curso-accesibilidad-web-platzi/final.html)
